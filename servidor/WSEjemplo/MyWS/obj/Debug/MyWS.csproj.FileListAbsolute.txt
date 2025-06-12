@@ -1,0 +1,35 @@
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\MyWS\bin\MyWS.dll.config
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\MyWS\bin\MyWS.dll
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\MyWS\bin\MyWS.pdb
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.AssemblyReference.cache
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\MyWS\obj\Debug\MyWS.dll
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\MyWS\obj\Debug\MyWS.pdb
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\MyWS.dll.config
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\MyWS.dll
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\MyWS.pdb
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\FireSharp.dll
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\Newtonsoft.Json.dll
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\RestSharp.dll
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\Newtonsoft.Json.xml
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\bin\RestSharp.xml
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.AssemblyReference.cache
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.Up2Date
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\obj\Debug\MyWS.dll
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\MyWS\obj\Debug\MyWS.pdb
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\MyWS.dll.config
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\MyWS.dll
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\MyWS.pdb
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\FireSharp.dll
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\FireSharp.Serialization.JsonNet.dll
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\Newtonsoft.Json.dll
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\RestSharp.dll
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\Newtonsoft.Json.xml
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\bin\RestSharp.xml
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.AssemblyReference.cache
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\obj\Debug\MyWS.csproj.Up2Date
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\obj\Debug\MyWS.dll
+C:\xampp\htdocs\serviciosWeb\visualStudio2022Projects\p6AlmacenConWS\WSEjemplo\MyWS\obj\Debug\MyWS.pdb

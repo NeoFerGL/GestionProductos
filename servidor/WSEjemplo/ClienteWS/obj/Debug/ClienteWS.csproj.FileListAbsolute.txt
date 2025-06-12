@@ -1,0 +1,20 @@
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe.config
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.pdb
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.AssemblyReference.cache
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Form1.resources
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.cache
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.exe
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.pdb
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe.config
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.exe
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\bin\Debug\ClienteWS.pdb
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.AssemblyReference.cache
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Form1.resources
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.cache
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.exe
+C:\Users\ferna\Downloads\pruebas\WSEjemplo\ClienteWS\obj\Debug\ClienteWS.pdb

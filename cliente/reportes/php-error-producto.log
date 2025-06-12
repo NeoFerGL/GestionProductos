@@ -1,0 +1,2 @@
+[23-Sep-2024 22:59:09 America/Mexico_City] PHP Warning:  Undefined array key "SERVER_NAME" in C:\xampp\htdocs\ws\practicas\p06\vendor\manoakys\nusoap\lib\class.soap_server.php on line 1053
+[23-Sep-2024 22:59:09 America/Mexico_City] PHP Warning:  Undefined array key "SERVER_PORT" in C:\xampp\htdocs\ws\practicas\p06\vendor\manoakys\nusoap\lib\class.soap_server.php on line 1054

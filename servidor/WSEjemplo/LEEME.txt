@@ -1,0 +1,13 @@
+# # # # # # # # # # #
+# CAMBIO DE PUERTO  #
+# # # # # # # # # # #
+
+1. Elimina el archivo 
+C:\Users\Neo\Documents\Visual Studio 2019\Sandbox\WSEjemplo\.vs\WSEjemplo\config\applicationhost.config
+
+2. Abrir a las propiedades del Servicio
+
+3. Ir a la pestaña de "Web"
+
+4. Modificar el puerto, por uno libre y guardar.
+	4.1. Si es necesario, sedebe Limpiar y Compilar o Re-compilar la solución
