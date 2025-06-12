@@ -53,10 +53,10 @@ Este proyecto implementa un sistema que permite la gestión y consulta de produc
 
 ## 🖼️ Capturas del Sistema
 
-### WSDL en C#
+### Metodos de C#
 ![Funcionalidad de metodo de C#](https://github.com/user-attachments/assets/0b72d864-5672-4e1a-bbee-5996c06af077)
 
-### WSDL en PHP
+### Metodos de PHP
 ![Funcionalidad de metodo d PHP](https://github.com/user-attachments/assets/bd2bad22-c8ac-4b09-8a51-22c18214943f)
 
 ### Producto en la BD
