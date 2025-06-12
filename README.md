@@ -70,3 +70,5 @@ Este proyecto implementa un sistema que permite la gestión y consulta de produc
   - `1.`: Que Xampp este activo con Apache para PHP y en la carpeta htdocs y en la ruta adecuada ejemplo http://localhost/gestionProductos/productoV3.php?wsdl
   - `2.`: Que Visual studio 2022 tamabien este ejecutandose en http://localhost:54793/WSPersonas.svc?wsdl
   - `3.`: Usar SoapUI y cargar las wsdl para usar los metodos.
+  - `4.`: Credencial en c# AuthSecret = "kMqScyNtxMSk5MCXieq9nWa5Up7oHmHozj544rpI" y BasePath = "https://productosws-35823-default-rtdb.firebaseio.com/"
+  - `5.`: En php $firebase = new MyFirebase('productosws-35823-default-rtdb');
